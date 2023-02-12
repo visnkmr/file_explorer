@@ -1,5 +1,5 @@
 # File Explorer (V File Explorer on Play Store)  
-A basic no nonsense file explorer.  
+A basic file explorer.  
 
 <!-- [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=visnkmr.apps.filexplorer) -->
 [<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" data-canonical-src="" alt-text="" width="153" />](https://www.amazon.com/gp/mas/dl/android?p=visnkmr.apps.filexplorer)  
