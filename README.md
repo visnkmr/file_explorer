@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/visnkmr/file_explorer/total.svg)]()  
 # File Explorer (V File Explorer on Play Store)  
 A basic file explorer.  
 
